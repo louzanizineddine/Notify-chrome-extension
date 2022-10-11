@@ -1,0 +1,15 @@
+body {
+  height: 300px;
+  width: 300px;
+}
+
+h2 {
+  color: red;
+  letter-spacing: 2em;
+}
+
+p {
+  font-style: italic;
+  fonst-size: 16px;
+  color: #444; 
+}
